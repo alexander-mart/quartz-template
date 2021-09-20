@@ -5,7 +5,13 @@ title: "Editing Content in Quartz"
 ## Editing 
 Quartz runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Markdown](https://www.markdownguide.org/getting-started/).
 
-[[directory]]
+- [[directory]]
+- [directory]
+- [directory](directory)
+- [directory](nodes/directory)
+
+
+
 
 ### Obsidian
 I *strongly* recommend using [Obsidian](http://obsidian.md/) as a way to edit and grow your digital garden. It comes with a really nice editor and graphical interface to preview all of my local files.
